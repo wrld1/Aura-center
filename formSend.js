@@ -35,7 +35,7 @@
             document.body.classList.remove("show-popup");
             modal.classList.remove("active");
             overlay.classList.remove("active");
-            window.location.href = "thankYou.html";
+            window.location.href = "https://aura-building.com/thankYou";
             // popupTitle.textContent = "Форма надіслана";
             // popupMessage.textContent =
             //   "Дякуємо вам. Наш спеціаліст зв'яжеться з вами найближчим часом.";
